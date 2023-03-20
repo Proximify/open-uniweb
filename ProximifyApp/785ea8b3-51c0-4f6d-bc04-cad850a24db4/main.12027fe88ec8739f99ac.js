@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuilder=self.webpackChunkbuilder||[]).push([[305],{305:(e,n,r)=>{r.r(n),r.d(n,{default:()=>l});var u=r(966);const l={Footer:r.n(u)().lazy((function(){return Promise.all([r.e(769),r.e(410)]).then(r.bind(r,410))}))}}}]);
